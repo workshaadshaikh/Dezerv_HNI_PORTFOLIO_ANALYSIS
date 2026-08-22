@@ -1,1 +1,123 @@
+# Methodology
 
+
+
+
+
+
+## 1. Client Profile
+
+
+
+
+The analysis starts with the client's:
+
+- Investment amount
+- Investment horizon
+- Risk profile
+- Liquidity requirement
+- Financial goals
+
+
+
+
+
+
+## 2. Portfolio
+
+
+
+The existing portfolio is broken down by:
+
+- Asset
+- Asset class
+- Investment value
+- Portfolio weight
+
+This gives the starting point for the analysis.
+
+
+
+
+
+
+
+
+## 3. Performance
+
+
+
+Portfolio and investment-level performance is analysed using the available market data.
+
+The analysis looks at both individual holdings and their contribution to the overall portfolio.
+
+
+
+
+
+
+
+## 4. Risk
+
+
+
+The portfolio is checked for:
+
+- Concentration
+- Volatility
+- Downside risk
+- Stress scenarios
+- Other portfolio-level risk indicators used in the workbook
+
+
+
+
+
+
+## 5. Goals
+
+
+
+The portfolio is compared with the client's financial goals.
+
+This helps identify where the current portfolio may not match the client's time horizon, liquidity needs or risk requirements.
+
+
+
+
+
+
+## 6. Rebalancing
+
+
+
+The current allocation is compared with the required portfolio allocation.
+
+Where the portfolio has moved away from the desired allocation, possible changes are identified.
+
+
+
+
+
+## 7. Recommendations
+
+
+
+The findings from the portfolio, performance, risk and goal analysis are brought together to form the final recommendations.
+
+The recommendations are based on the client's situation rather than the performance of a single investment.
+
+
+
+
+
+
+
+## 8. Dashboard
+
+
+
+
+The final analysis is presented through Power BI.
+
+The dashboard provides a quick view of the portfolio and the main findings from the analysis.
